@@ -22,7 +22,7 @@ ul {
 }
 
 nav {
-    display: flex;
+    display: flex; 
     flex-direction: row;
     gap: 30px;
     align-items: center;
