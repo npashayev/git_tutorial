@@ -22,11 +22,10 @@ ul {
 }
 
 nav {
-    display: flex; 
-    flex-direction: row;
-    gap: 30px;
-    align-items: center;
-    justify-content: center;
-    color: white;
+    display: inline;
+    padding: 2rem 3rem;
+    color: gray;
+    font-size: 22px;
+    text-decoration: dotted;
     background-color: black;
 }
